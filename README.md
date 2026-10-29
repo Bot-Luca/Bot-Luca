@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 👋
 
 <!--
 **Bot-Luca/Bot-Luca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🤠 I'm Luca, a mechatronics technician currently pursuing a degree in computer engineering here in Brazil.
+
+🤯 I love bringing my ideas to life whenever my brain decides to pop one out.
+
+🤓 I am still studying a lot to become a human compiler for my ideas, turning raw thoughts into executable reality...
+
+📫 If you wanna reach me, try my [LinkedIn](https://www.linkedin.com/in/luca-magni-guedes) or my [e-mail](mailto:luca.guedes.lg@gmail.com)!
