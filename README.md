@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 🤯 I love bringing my ideas to life whenever my brain decides to pop one out.
 
-🤓 I am still studying a lot to become a human compiler for my ideas, turning raw thoughts into executable reality...
+🤓 I am still studying a lot to become a real human compiler of ideas, transforming simple neuron connections into programs...
 
 📫 If you wanna reach me, try my [LinkedIn](https://www.linkedin.com/in/luca-magni-guedes) or my [e-mail](mailto:luca.guedes.lg@gmail.com)!
